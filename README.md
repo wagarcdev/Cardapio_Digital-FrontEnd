@@ -12,7 +12,6 @@ Este é o repositório do FrontEnd do App de Cardápio, uma aplicação fullstac
 - Exibir a lista de itens do cardápio
 - Adicionar um novo item ao cardápio
 - Atualizar os dados de um item existente
-- Excluir um item do cardápio
 
 ## Tecnologias Utilizadas
 
